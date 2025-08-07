@@ -46,8 +46,4 @@ Now you can:
 
 ---
 
- Git is now fully set up on your Windows system with Git Bash and VS Code. You're ready to manage your code like a pro!
-
----
-
 
