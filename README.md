@@ -62,4 +62,4 @@ This guide is shared under the **MIT License** — feel free to use, adapt, and 
 
 ---
 
-Would you like a **GitHub Pages website version**, emoji badges, or a custom banner? Just say the word — I’ll help you add that too.
+
